@@ -1,0 +1,49 @@
+﻿team_id,name_en,name_zh,pot,confederation_set,host,fifa_points,fifa_rank,strength_date,strength_basis
+MEX,Mexico,墨西哥,1,CONCACAF,true,1675.75,15,2025-11-19,team_rating_at_draw
+CAN,Canada,加拿大,1,CONCACAF,true,1559.15,27,2025-11-19,team_rating_at_draw
+USA,United States,美国,1,CONCACAF,true,1681.88,14,2025-11-19,team_rating_at_draw
+ESP,Spain,西班牙,1,UEFA,false,1877.18,1,2025-11-19,team_rating_at_draw
+ARG,Argentina,阿根廷,1,CONMEBOL,false,1873.33,2,2025-11-19,team_rating_at_draw
+FRA,France,法国,1,UEFA,false,1870,3,2025-11-19,team_rating_at_draw
+ENG,England,英格兰,1,UEFA,false,1834.12,4,2025-11-19,team_rating_at_draw
+BRA,Brazil,巴西,1,CONMEBOL,false,1760.46,5,2025-11-19,team_rating_at_draw
+POR,Portugal,葡萄牙,1,UEFA,false,1760.38,6,2025-11-19,team_rating_at_draw
+NED,Netherlands,荷兰,1,UEFA,false,1756.27,7,2025-11-19,team_rating_at_draw
+BEL,Belgium,比利时,1,UEFA,false,1730.71,8,2025-11-19,team_rating_at_draw
+GER,Germany,德国,1,UEFA,false,1724.15,9,2025-11-19,team_rating_at_draw
+CRO,Croatia,克罗地亚,2,UEFA,false,1716.88,10,2025-11-19,team_rating_at_draw
+MAR,Morocco,摩洛哥,2,CAF,false,1713.12,11,2025-11-19,team_rating_at_draw
+COL,Colombia,哥伦比亚,2,CONMEBOL,false,1701.3,13,2025-11-19,team_rating_at_draw
+URU,Uruguay,乌拉圭,2,CONMEBOL,false,1672.62,16,2025-11-19,team_rating_at_draw
+SUI,Switzerland,瑞士,2,UEFA,false,1654.69,17,2025-11-19,team_rating_at_draw
+JPN,Japan,日本,2,AFC,false,1650.12,18,2025-11-19,team_rating_at_draw
+SEN,Senegal,塞内加尔,2,CAF,false,1648.07,19,2025-11-19,team_rating_at_draw
+IRN,IR Iran,伊朗,2,AFC,false,1617.02,20,2025-11-19,team_rating_at_draw
+KOR,Korea Republic,韩国,2,AFC,false,1599.45,22,2025-11-19,team_rating_at_draw
+ECU,Ecuador,厄瓜多尔,2,CONMEBOL,false,1591.73,23,2025-11-19,team_rating_at_draw
+AUT,Austria,奥地利,2,UEFA,false,1585.51,24,2025-11-19,team_rating_at_draw
+AUS,Australia,澳大利亚,2,AFC,false,1574.01,26,2025-11-19,team_rating_at_draw
+NOR,Norway,挪威,3,UEFA,false,1553.14,29,2025-11-19,team_rating_at_draw
+PAN,Panama,巴拿马,3,CONCACAF,false,1540.43,30,2025-11-19,team_rating_at_draw
+EGY,Egypt,埃及,3,CAF,false,1520.68,34,2025-11-19,team_rating_at_draw
+ALG,Algeria,阿尔及利亚,3,CAF,false,1516.37,35,2025-11-19,team_rating_at_draw
+SCO,Scotland,苏格兰,3,UEFA,false,1506.77,36,2025-11-19,team_rating_at_draw
+PAR,Paraguay,巴拉圭,3,CONMEBOL,false,1501.5,39,2025-11-19,team_rating_at_draw
+TUN,Tunisia,突尼斯,3,CAF,false,1497.13,40,2025-11-19,team_rating_at_draw
+CIV,Côte d'Ivoire,科特迪瓦,3,CAF,false,1489.59,42,2025-11-19,team_rating_at_draw
+UZB,Uzbekistan,乌兹别克斯坦,3,AFC,false,1462.03,50,2025-11-19,team_rating_at_draw
+QAT,Qatar,卡塔尔,3,AFC,false,1461.6,51,2025-11-19,team_rating_at_draw
+KSA,Saudi Arabia,沙特阿拉伯,3,AFC,false,1428.74,60,2025-11-19,team_rating_at_draw
+RSA,South Africa,南非,3,CAF,false,1426.73,61,2025-11-19,team_rating_at_draw
+JOR,Jordan,约旦,4,AFC,false,1377.66,66,2025-11-19,team_rating_at_draw
+CPV,Cabo Verde,佛得角,4,CAF,false,1367.95,68,2025-11-19,team_rating_at_draw
+GHA,Ghana,加纳,4,CAF,false,1351.09,72,2025-11-19,team_rating_at_draw
+CUW,Curaçao,库拉索,4,CONCACAF,false,1302.7,82,2025-11-19,team_rating_at_draw
+HAI,Haiti,海地,4,CONCACAF,false,1294.49,84,2025-11-19,team_rating_at_draw
+NZL,New Zealand,新西兰,4,OFC,false,1279.25,86,2025-11-19,team_rating_at_draw
+UEFA_PO_A,European Play-Off A,欧洲附加赛A,4,UEFA,false,1490.04,46,2025-11-19,candidate_mean_at_draw
+UEFA_PO_B,European Play-Off B,欧洲附加赛B,4,UEFA,false,1494.4275,41.25,2025-11-19,candidate_mean_at_draw
+UEFA_PO_C,European Play-Off C,欧洲附加赛C,4,UEFA,false,1460.74,49.25,2025-11-19,candidate_mean_at_draw
+UEFA_PO_D,European Play-Off D,欧洲附加赛D,4,UEFA,false,1479.59,47.25,2025-11-19,candidate_mean_at_draw
+FIFA_PO_1,FIFA Play-Off Tournament 1,洲际附加赛路径1,4,OFC|CONCACAF|CAF,false,1282.5267,91.6667,2025-11-19,candidate_mean_at_draw
+FIFA_PO_2,FIFA Play-Off Tournament 2,洲际附加赛路径2,4,CONMEBOL|CONCACAF|AFC,false,1303.0067,85.6667,2025-11-19,candidate_mean_at_draw
